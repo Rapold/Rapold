@@ -40,8 +40,8 @@ fields_of_interest:
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,python,html,css,mysql,github,figma,vscode,eclipse,androidstudio)](https://skillicons.dev)
 
 ## 🌐Contato
-![Gmail Badge](https://img.shields.io/badge/-amandarapolds@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})<br>
-[![Linkedin: Ellen](https://img.shields.io/badge/-Amanda_Rapold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-rapold-a66394360)](https://www.linkedin.com/in/amanda-rapold-a66394360)<br>
+[![Gmail](https://img.shields.io/badge/amandarapolds@gmail.com-D14836?logo=gmail&logoColor=white)](#)<br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Amanda_Rapold-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/amanda-rapold-a66394360)](#)](https://www.linkedin.com/in/amanda-rapold-a66394360)<br>
 
 ## 📈Estatísticas
 
