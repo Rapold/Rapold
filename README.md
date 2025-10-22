@@ -41,7 +41,7 @@ fields_of_interest:
 
 ## 🌐Contato
 [![Gmail](https://img.shields.io/badge/amandarapolds@gmail.com-D14836?logo=gmail&logoColor=white)](#)<br>
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Amanda_Rapold-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/amanda-rapold-a66394360)](#)(https://www.linkedin.com/in/amanda-rapold-a66394360)<br>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/Amanda_Rapold-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/amanda-rapold-a66394360)(#)](https://www.linkedin.com/in/amanda-rapold-a66394360)<br>
 
 ## 📈Estatísticas
 
