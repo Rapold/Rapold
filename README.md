@@ -41,7 +41,7 @@ fields_of_interest:
 
 ## 🌐Contato
 ![Gmail Badge](https://img.shields.io/badge/-amandarapolds@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=red&link=mailto:{SeuEmail})<br>
-[![Linkedin: Ellen](https://img.shields.io/badge/-Amanda_Rapold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-rapold/)](www.linkedin.com/in/amanda-rapold/)<br>
+[![Linkedin: Ellen](https://img.shields.io/badge/-Amanda_Rapold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-rapold-a66394360)](https://www.linkedin.com/in/amanda-rapold-a66394360)<br>
 
 ## 📈Estatísticas
 
