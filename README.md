@@ -48,7 +48,11 @@ fields_of_interest:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapold&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapold&layout=compact)
 
-![snake gif](https://github.com/rapold/rapold/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapold/rapold/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rapold/rapold/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rapold/rapold/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:DFD1FF,100:387ACF&fontColor=FFFFFF&animation=fadeIn&fontSize=45&section=footer&textBg=false"
