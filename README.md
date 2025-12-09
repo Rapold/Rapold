@@ -37,7 +37,7 @@ fields_of_interest:
 
 ## 🛠️Habilidades
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,sql,html,css,github,figma,vscode,eclipse,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,mysql,html,css,github,figma,vscode,eclipse,androidstudio)](https://skillicons.dev)
 
 ## 🌐Contato
 [![Gmail](https://img.shields.io/badge/amandarapolds@gmail.com-D14836?logo=gmail&logoColor=white)](#)<br>
